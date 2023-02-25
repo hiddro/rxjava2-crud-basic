@@ -25,7 +25,7 @@ spec:
 apiVersion: v1 # Kubernetes API version
 kind: Service # Kubernetes resource kind we are creating
 metadata: # Metadata of the resource kind we are creating
-  name: springboot-k8ssvc
+  name: rxjava2example-k8ssvc
 spec:
   selector:
     app: rxjava2-example-k8s
