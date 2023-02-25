@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.educc0r</groupId>
-	<artifactId>rxjava</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>rxjava</name>
+	<artifactId>devops-automation-rxjava2</artifactId>
+	<version>1.0.0</version>
+	<name>devops-automation-rxjava2</name>
 	<description>Example Spring Boot RxJava - Edu</description>
 	<properties>
 		<java.version>11</java.version>
