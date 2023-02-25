@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: rxjava2-example-k8s
-          image: eddugo/webflux-examen-devops-automation # Image that will be used to containers in the cluster
+          image: eddugo/devops-automation-rxjava2-1.0.0 # Image that will be used to containers in the cluster
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080 # The port that the container is running on in the cluster
